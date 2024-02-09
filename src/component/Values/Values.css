@@ -1,0 +1,30 @@
+.Values {
+  width: 70%;
+  height: 328px;
+  margin: auto;
+  padding-top: 30px;
+}
+.values-us {
+  font-family: Overpass;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #4c70f0;
+}
+
+.value-top {
+  height: 81px;
+  margin: auto;
+}
+
+.value-bottom ul {
+  display: flex;
+}
+.value-bottom li {
+  list-style: none;
+  margin: auto;
+}
+.value-img {
+  width: 30px;
+  height: 30px;
+}

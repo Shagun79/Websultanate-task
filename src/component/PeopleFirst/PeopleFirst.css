@@ -1,0 +1,51 @@
+.PeopleFirstAll {
+  display: flex;
+  gap: 43px;
+  width: 1108px;
+  height: 535px;
+  color: #3c4257;
+  justify-content: center;
+  margin: auto;
+  margin-left: 194px;
+}
+.PeopleFirst-us {
+  font-family: Overpass;
+  font-weight: 600;
+  line-height: 21px;
+  color: #4c70f0;
+  font-size: 14px;
+}
+.PeopleFirst-content {
+  width: 50%;
+  margin-top: 110px;
+}
+.PeopleFirst-us {
+  text-align: left;
+  margin: 0;
+}
+.people-para {
+  text-align: left;
+  font-family: Overpass;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6b7b9c;
+}
+.PeopleFirst-heading {
+  margin-top: 10px;
+  text-align: left;
+  font-family: Overpass;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 50.4px;
+  color: #3c4257;
+}
+.PeopleFirst-img {
+  width: 548px;
+  height: 535px;
+}
+.im1 {
+  margin-top: 24px;
+  width: 33rem;
+  height: 30rem;
+}

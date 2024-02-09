@@ -1,0 +1,51 @@
+.Mission {
+  width: 100%;
+}
+.missionAll {
+  margin: auto;
+  margin-left: 180px;
+  display: flex;
+  gap: 43px;
+  width: 1108px;
+  height: 448px;
+  color: #3c4257;
+}
+.Mission-us {
+  text-align: left;
+  font-family: Overpass;
+  color: #4c70f0;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  margin-left: 7px;
+}
+.Mission-content {
+  margin: auto;
+  margin-left: 194px;
+  width: 521px;
+  height: 265px;
+  margin: auto;
+}
+.Mission-heading {
+  text-align: left;
+}
+.content-top {
+  font-family: Overpass;
+  font-weight: 800;
+  font-size: 25px;
+}
+.content-down {
+  font-family: Overpass;
+  text-align: left;
+}
+.Mission-img {
+  width: 580px;
+  width: 448px;
+  margin-right: 200px;
+}
+.img1 {
+  margin-top: 55px;
+  width: 17rem;
+  height: 20rem;
+  border-radius: 20% 77% 86% 27%/60% 74% 48% 58%;
+}

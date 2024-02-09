@@ -1,0 +1,38 @@
+.learnMore {
+  width: 70%;
+  margin: auto;
+  padding-top: 70px;
+  background-color: #e5e6e9;
+  height: 250px;
+  margin-left: 194px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.learnMore h1 {
+  font-family: Overpass;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 43.2px;
+  color: #3c4257;
+}
+.learnMore-mid {
+  font-family: Overpass;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6b7b9c;
+}
+.inputMail {
+  padding: 10px;
+  margin-top: 15px;
+  border: 2px solid white;
+  border-radius: 5px 0 0 5px;
+  width: 35%;
+}
+.subscribe {
+  padding: 10px 23px;
+  color: white;
+  background-color: #4c70f0;
+  border: 2px solid #4c70f0;
+  border-radius: 0 5px 5px 0;
+}

@@ -1,0 +1,40 @@
+.join {
+  margin: auto;
+  padding-top: 70px;
+  background-color: #f4f6fe;
+  height: 300px;
+}
+.join h1 {
+  font-family: Overpass;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 43.2px;
+  color: #3c4257;
+}
+.join p {
+  font-family: Overpass;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6b7b9c;
+}
+.btns {
+  margin-top: 50px;
+}
+.btn1 {
+  padding: 10px;
+  color: white;
+  background-color: #4c70f0;
+  border: 2px solid #4c70f0;
+  border-radius: 5px;
+  margin-left: -29px;
+}
+.btn2 {
+  padding: 10px 20px;
+  font-weight: bold;
+  color: #4c70f0;
+  background-color: #f4f6fe;
+  border: 2px solid #4c70f0;
+  border-radius: 5px;
+  margin-left: 20px;
+}

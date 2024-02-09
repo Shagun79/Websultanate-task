@@ -1,0 +1,71 @@
+footer {
+  background-color: #23283b;
+  color: white;
+  padding-top: 45px;
+  text-align: center;
+}
+.foot-content {
+  height: 357px;
+}
+.footer-logo {
+  height: 44px;
+}
+.foot-top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-left: -53px;
+}
+.foot-top div {
+  flex: 1;
+}
+.icons {
+  width: 60%;
+  display: inline;
+  margin-left: -58rem;
+}
+.foot-down {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  float: left;
+  margin-left: 53rem;
+  margin-top: -2rem;
+}
+
+.footer-login {
+  margin-left: 50px;
+}
+.footer-signup {
+  margin-left: 45px;
+}
+table {
+  width: 851px;
+  gap: 69px;
+  height: 273px;
+}
+th,
+td {
+  text-align: left;
+}
+th {
+  font-weight: bold;
+  color: #fff;
+}
+
+.footer-img {
+  width: 20px;
+  height: 20px;
+  margin: 7px;
+}
+
+.year {
+  margin-left: 50px;
+}
+
+.login {
+  margin-left: 40px;
+}
+.signup {
+  margin-left: 50px;
+}
